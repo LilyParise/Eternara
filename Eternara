@@ -28,10 +28,11 @@ iframe{
 <body>
 
 <iframe
-src="https://www.youtube.com/embed/zHc4mXzPxyY?autoplay=1&loop=1&playlist=zHc4mXzPxyY&controls=0&rel=0"
+src="https://www.youtube.com/embed/zHc4mXzPxyY?autoplay=1&loop=1&playlist=zHc4mXzPxyY&controls=0&rel=0&modestbranding=1"
 allow="autoplay; fullscreen"
 allowfullscreen>
 </iframe>
+
 
 </body>
 </html>
